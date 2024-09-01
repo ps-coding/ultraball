@@ -1,0 +1,6 @@
+[submodule "server-ultraball"]
+	path = server-ultraball
+	url = https://github.com/ps-coding/server-ultraball
+[submodule "client-ultraball"]
+	path = client-ultraball
+	url = https://github.com/ps-coding/client-ultraball
