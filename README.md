@@ -56,3 +56,4 @@ Each round, you will be prompted to choose a move. You will only see moves that 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c1c12a02-284c-4b7d-bcb4-c173d09ae6e7/deploy-status)](https://app.netlify.com/sites/ultraball/deploys)
 
 # [Server](https://github.com/ps-coding/server-ultraball)
+As the sever is hosted on the [Render free plan](https://docs.render.com/free#other-limitations) for now, it may take some time to spin up initially. All subsequent requests should be fast.
